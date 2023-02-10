@@ -11,4 +11,4 @@ collaborative and in under pressure. 1200+ hours of coding
 and hands on experience in 3 fully functional E-commerce
 websites.
 
-![OIP](https://user-images.githubusercontent.com/113714228/218106715-44dbbec9-5345-4ca6-915f-75a98fc48e1a.jpeg)
+                             ![OIP](https://user-images.githubusercontent.com/113714228/218106715-44dbbec9-5345-4ca6-915f-75a98fc48e1a.jpeg)
