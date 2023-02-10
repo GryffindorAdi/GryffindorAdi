@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Wbsites devlopment
-- 🤔 I’m looking for help with React
-- 💬 Ask me about html,css,JavaScript
-- 📫 How to reach me: adipatiladitya2001@gmail.com
-- 😄 Pronouns: Joke
-- ⚡ Fun fact: Dark Coffee <3
+Innovative, self-motivated Full Stack Web Devloper with
+proficiency in JAVA. Have ability to perform well in
+collaborative and in under pressure. 1200+ hours of coding
+and hands on experience in 3 fully functional E-commerce
+websites.
+
 
