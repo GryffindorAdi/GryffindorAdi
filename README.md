@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gryffndor_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gryffndor_adi" height="30" width="40" /></a>
+<a href="https://twitter.com/gryffindor_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gryffndor_adi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gryffindoradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gryffindoradi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rendered pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rendered pixels" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/UCvKYq3wX7VxlehMDcidk-LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rendered pixels" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
