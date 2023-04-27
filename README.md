@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://aditya-patil.netlify.app/](https://aditya-patil.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gryffindoradi.gtihub.io/](https://gryffindoradi.github.io/)
 
 - 💬 Ask me about **HTML, Java, Javascript, CSS, React**
 
